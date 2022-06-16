@@ -1,0 +1,14 @@
+marca - VARCHAR(20) - 
+modello - VARCHAR(30) -
+chilometri - DOUBLE(9,2) -
+colore - VARCHAR(15) -
+materiale - VARCHAR(20) -
+alimentazione - VARCHAR(10) -
+origine - VARCHAR(20) -
+peso_kg - SMALLINT -
+misure - SMALLINT -
+numero telaio - INT -
+anno - YEAR -
+immatricolazione - DATE -
+cv - SMALLINT - 
+prezzo - INT -
