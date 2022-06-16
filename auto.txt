@@ -7,7 +7,7 @@ materiale - VARCHAR(20) - NULL
 alimentazione - VARCHAR(10) - NOTNULL
 origine - VARCHAR(20) - NULL
 peso_kg - SMALLINT - NULL - UNSIGNED
-misure - SMALLINT - NOTNULL
+misure - VARCHAT(20) - NOTNULL
 numero telaio - INT - NOTNULL - UNIQUE - UNSIGNED
 anno - YEAR - NOTNULL
 immatricolazione - DATE - NOTNULL
